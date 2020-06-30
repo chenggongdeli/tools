@@ -1,0 +1,7 @@
+dex2jar文件官网下载列表：https://sourceforge.net/projects/dex2jar/files/
+
+dex2jar-2.0：最近更新的版本（JDK1.8）
+
+dex2jar-0.0.9  (JDK1.7)
+
+dex2jar-0.0.7  (JDK1.7以下)
